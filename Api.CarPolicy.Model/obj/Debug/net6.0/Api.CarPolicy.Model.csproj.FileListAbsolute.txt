@@ -1,0 +1,12 @@
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\bin\Debug\net6.0\Api.CarPolicy.Model.deps.json
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\bin\Debug\net6.0\Api.CarPolicy.Model.dll
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\bin\Debug\net6.0\Api.CarPolicy.Model.pdb
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\Api.CarPolicy.Model.csproj.AssemblyReference.cache
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\Api.CarPolicy.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\Api.CarPolicy.Model.AssemblyInfoInputs.cache
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\Api.CarPolicy.Model.AssemblyInfo.cs
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\Api.CarPolicy.Model.csproj.CoreCompileInputs.cache
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\Api.CarPolicy.Model.dll
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\refint\Api.CarPolicy.Model.dll
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\Api.CarPolicy.Model.pdb
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.Model\obj\Debug\net6.0\ref\Api.CarPolicy.Model.dll

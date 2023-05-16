@@ -1,0 +1,15 @@
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\bin\Debug\net6.0\Api.CarPolicy.DataAccess.deps.json
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\bin\Debug\net6.0\Api.CarPolicy.DataAccess.dll
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\bin\Debug\net6.0\Api.CarPolicy.DataAccess.pdb
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\bin\Debug\net6.0\Api.CarPolicy.Model.dll
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\bin\Debug\net6.0\Api.CarPolicy.Model.pdb
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.AssemblyInfo.cs
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.csproj.CopyComplete
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.dll
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\refint\Api.CarPolicy.DataAccess.dll
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\Api.CarPolicy.DataAccess.pdb
+C:\Users\john.paez\source\repos\Api.CarPolicy\Api.CarPolicy.DataAccess\obj\Debug\net6.0\ref\Api.CarPolicy.DataAccess.dll

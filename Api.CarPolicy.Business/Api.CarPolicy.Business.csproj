@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.19.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.CarPolicy.DataAccess\Api.CarPolicy.DataAccess.csproj" />
+    <ProjectReference Include="..\Api.CarPolicy.Model\Api.CarPolicy.Model.csproj" />
+  </ItemGroup>
+
+</Project>

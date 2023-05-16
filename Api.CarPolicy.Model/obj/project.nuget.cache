@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFQ8dkBW2UII1Lo9/EtJZ9RM/95JJY48hJOY6uihRAnrP84K0T4hXaQnxODVtHrVYhnPzQzydfavnDi8xRSNqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\john.paez\\source\\repos\\Api.CarPolicy\\Api.CarPolicy.Model\\Api.CarPolicy.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\john.paez\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
+    "C:\\Users\\john.paez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
